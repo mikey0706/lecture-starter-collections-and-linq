@@ -1,0 +1,12 @@
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\bin\Debug\net6.0\CollectionsAndLinq.BL.deps.json
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\bin\Debug\net6.0\CollectionsAndLinq.BL.dll
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\bin\Debug\net6.0\CollectionsAndLinq.BL.pdb
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.csproj.AssemblyReference.cache
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.AssemblyInfoInputs.cache
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.AssemblyInfo.cs
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.csproj.CoreCompileInputs.cache
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.dll
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\refint\CollectionsAndLinq.BL.dll
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\CollectionsAndLinq.BL.pdb
+C:\Users\poden\Source\Repos\lecture-starter-collections-and-linq\CollectionsAndLinq\CollectionsAndLinq.BL\obj\Debug\net6.0\ref\CollectionsAndLinq.BL.dll
